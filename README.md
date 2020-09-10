@@ -1,7 +1,7 @@
 # Robinhood - A The Future, Or The End Of Trading?
 Case Study for Robinhood
 
-!(image/Robinhood.jpg)
+![Robinhood](image/Robinhood.jpg)
 
 ### Background:
 The company Robinhood was created by Baiju and Vlad, two college roommates at Stanford, who shortly after graduation decided to move to New York City to sell trading software to hedge funds.After gaining experience in the finance industry, they decided to create a platform where everyone can access to the financial markets. This platform is now known as Robinhood, where they encourage everyone to participate in the financial system.
